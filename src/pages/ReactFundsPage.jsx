@@ -1,11 +1,11 @@
 import { funds } from '../data/funds';
+import { reports } from '../data/reports';
 
 import Header from "../components/Header";
 import Main from "../components/Main";
 import Fund from "../components/Fund";
 import FundReport from '../components/FundReport';
 import FundMonth from '../components/FundMonth';
-import { reports } from '../data/reports';
 
 export default function ReactFundsPage() {
     return (
