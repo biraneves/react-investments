@@ -1,4 +1,4 @@
-import Header from "./components/Header"
+import ReactFundsPage from "./pages/ReactFundsPage"
 
 export default function App() {
     return (
